@@ -1,8 +1,8 @@
 <body>
-  <h1>Cafeína</h1>
+  <h1>Cafeína☕</h1>
   <p>Este documento contém informações sobre a cafeína, resultado de uma pesquisa realizada durante a faculdade.</p>
   <h2>Introdução</h2>
-  <p>A cafeína ☕ é uma molécula fascinante que pertence ao grupo das xantinas e está presente em várias plantas, atuando como um pesticida natural. Ela pode ser encontrada nos grãos de café ☕️, nas folhas de chá mate 🍵, nas sementes de cacau 🍫 e no guaraná 🌿. Em 1819, um cientista alemão chamado Friedlib Ferdinand Runge foi o primeiro a isolar a molécula de cafeína a partir de sementes de café e dar-lhe um nome.</p>
+  <p>A cafeína é uma molécula fascinante que pertence ao grupo das xantinas e está presente em várias plantas, atuando como um pesticida natural. Ela pode ser encontrada nos grãos de café, nas folhas de chá mate, nas sementes de cacau e no guaraná. Em 1819, um cientista alemão chamado Friedlib Ferdinand Runge foi o primeiro a isolar a molécula de cafeína a partir de sementes de café e dar-lhe um nome.</p>
   <h2>Propriedades e Benefícios</h2>
   <p>A cafeína é um psicoativo estimulante do sistema nervoso central, capaz de temporariamente alterar funções neurais. 💥 Ela melhora a atenção, o estado de alerta e o raciocínio, proporcionando mudanças no humor. Além disso, a cafeína acelera o metabolismo e a queima de calorias, o que a torna uma aliada na prática de exercícios físicos. Ela também estimula a liberação de adrenalina no sangue, promovendo a degradação de lipídios e aumentando a energia disponível para atividades físicas. 🏋️‍♀️💪</p>
   <p>No corpo, a cafeína é metabolizada em várias substâncias, sendo a teofilina uma delas. A teofilina é um agente químico que relaxa a musculatura dos brônquios e é amplamente utilizada no tratamento de condições como bronquite e asma. Além disso, a cafeína possui alta relevância na melhoria da absorção de alguns medicamentos pelo organismo, potencializando seus efeitos analgésicos.</p>
